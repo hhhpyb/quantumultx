@@ -1,7 +1,3 @@
 # NAME: Misakaf
 
-HOST,stream1.misakaf.org,Misakaf
-HOST,stream2.misakaf.org,Misakaf
-HOST,stream3.misakaf.org,Misakaf
-HOST,stream4.misakaf.org,Misakaf
-HOST,emby2.misakaf.org,Misakaf
+host-suffix,misakaf.org,Misakaf
