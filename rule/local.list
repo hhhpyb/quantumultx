@@ -1,3 +1,4 @@
 # NAME: local
 
 IP-CIDR,180.232.0.0/16,DIRECT
+host-suffix,api.tabnine.com,美国
