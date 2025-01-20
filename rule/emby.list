@@ -1,4 +1,4 @@
 # NAME: EMBY
 
-host-suffix,niceduck.io,EMBY
-host-suffix,niceduck.lol,EMBY
+host-suffix,niceduck.io,PROXY
+host-suffix,niceduck.lol,emby
